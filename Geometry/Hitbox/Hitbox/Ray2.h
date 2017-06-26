@@ -8,4 +8,5 @@ public:
 private:
 	Vector2 m_origin;
 	Vector2 m_direction;
+	float m_length;
 };
